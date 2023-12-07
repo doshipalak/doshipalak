@@ -1,6 +1,14 @@
 - 👋 Hi, I’m Palak Doshi Jain
-- 👀 I’m interested in Data Visualisation,Machine Learning,Python Programming
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested Data Scientiist Role
+- Skills:
+  Python Programming
+  Data Cleaning & Processing
+  Exploratory Data Analysis (EDA)
+  Machine Learning Algorithms
+  Frameworks: scikit-learn, TensorFlow
+  Model Creation, Accuracy Assessment
+  Regularization Techniques
+
 - 💞️ I’m looking to collaborate on Data scientist/Analyst
 - 📫 Contact me at: doshi_palak18@yahoo.in
 
